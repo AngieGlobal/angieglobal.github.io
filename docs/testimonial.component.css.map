@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/testimonial/testimonial.component.scss"],
+  "sourcesContent": [".agr-testimonial{\r\n  border-radius: 50px 10px 10px 10px;\r\n  min-height: 281px;\r\n  &__content{\r\n    &-top{\r\n      & .user-info{\r\n        margin-left: 110px;\r\n      }\r\n      & > div{\r\n        position:relative;\r\n        & > img{\r\n          position: absolute;\r\n          top: -17px;\r\n          left: -16px;\r\n\r\n        }\r\n      }\r\n    }\r\n    &-bottom{\r\n      line-height: normal;\r\n    }\r\n  }\r\n  & .smaller-font{\r\n    font-size:14px;\r\n  }\r\n}\r\n"],
+  "mappings": ";AAAA,CAAA;AACE,iBAAA,KAAA,KAAA,KAAA;AACA,cAAA;;AAGI,CAAA,6BAAA,CAAA;AACE,eAAA;;AAEF,CAHA,6BAGA,EAAA;AACE,YAAA;;AACA,CALF,6BAKE,EAAA,IAAA,EAAA;AACE,YAAA;AACA,OAAA;AACA,QAAA;;AAKN,CAAA;AACE,eAAA;;AAGJ,CAtBF,gBAsBE,CAAA;AACE,aAAA;;",
+  "names": []
+}

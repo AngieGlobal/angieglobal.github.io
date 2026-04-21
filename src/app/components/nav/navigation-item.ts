@@ -27,15 +27,22 @@ export interface NavigationItem extends BaseNavigation {
         title: 'Property Management',
         isActive: false,
         url: '/offers/property-management.html'
+      },
+      {
+        title:'Staging Design',
+        isActive: false,
+        url:'https://ajstagingdesign.wixsite.com/ajstaging'
       }
     ]
   },
+  /*
   {
     title:'Mortgage',
     url:'/mortgage.html',
     hasChildren: false,
     isActive:false
   },
+  */
   {
     title:'Angie University',
     url:'/learning.html',
