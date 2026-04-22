@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/iconbox/iconbox.component.scss"],
-  "sourcesContent": [".agr-iconbox{\r\n    max-width: 240px;\r\n    &__title{\r\n        font-size: 1.5rem;\r\n        font-weight: 400;\r\n    }\r\n}"],
-  "mappings": ";AAAA,CAAA;AACI,aAAA;;AACA,CAAA;AACI,aAAA;AACA,eAAA;;",
-  "names": []
-}
